@@ -1,6 +1,6 @@
 name: Hello, World Docker action!
 description: Greet the world
-author: @Jorge Zapata
+author: @JorgeZapata95
 
 inputs:
   who-to-greet:
