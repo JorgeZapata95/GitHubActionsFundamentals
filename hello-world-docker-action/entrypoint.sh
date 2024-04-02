@@ -1,1 +1,2 @@
-echo "Helo World, the time is ${{time}}"
+echo "Helo $1"
+echo "time=$(date)" >> $GITHUB_OUTPUT
